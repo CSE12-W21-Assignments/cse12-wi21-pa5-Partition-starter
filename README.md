@@ -52,7 +52,6 @@ If you are unsure or have questions about how to get the starter code, feel free
 - `FirstElePivotPartitioner.java`: 
     - A concrete class which implements Partitioner and utilizes the first element as the pivot (you implement this)
 
-The header comments in the Random/Central/FirstElePivotPartitioner.java serve as the written part of your grade for this PA.
 
 ## Part I: A Bad (and Good) Implementation Detector
 
